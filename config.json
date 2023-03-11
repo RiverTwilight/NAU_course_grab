@@ -1,0 +1,26 @@
+{
+	"url": "http://jwc.nau.edu.cn/Students/NauEventHandle.ashx?class=CourseEelectDeal&meth=AddCourse",
+	"data": {
+		"data": [
+			{
+				"courseID": "",
+				"teachingClass": "",
+				"term": "",
+				"startDate": "",
+				"endDate": "",
+				"limitNum": "",
+				"CourseSelectStyle": "",
+				"banRule": "",
+				"token": ""
+			}
+		]
+	},
+	"cookies": {
+		"wengine_new_ticket": "",
+		"ASP.NET_SessionId": "",
+		".ASPXCOOKIEDEMO": ""
+	},
+	"header": {
+		"ua": ""
+	}
+}
